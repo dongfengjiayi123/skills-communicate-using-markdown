@@ -7,3 +7,7 @@ I changed this document
 $git init
 xindongxi
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
